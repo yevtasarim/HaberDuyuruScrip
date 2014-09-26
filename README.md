@@ -1,4 +1,0 @@
-HaberDuyuruScrip
-================
-
-news,script,jquery
